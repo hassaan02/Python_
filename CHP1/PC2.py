@@ -15,4 +15,11 @@
 
 # remainder = float( num % z)
 
-print("The answer is:", remainder) hhhhh
+# print("The answer is:", remainder) 
+
+
+# Check the type of variable assigned using input () function.
+# user_input = int(input("Type Something:",)) 
+
+# print(type(user_input))
+
