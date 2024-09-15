@@ -23,7 +23,7 @@
 
 # s = set()          # dont use s={} as set because it will be empty dictionary 
 
-set = {1,2,3,4,5,6,7,8,9}
+# set = {1,2,3,4,5,6,7,8,9}
 
 # print(set)
 

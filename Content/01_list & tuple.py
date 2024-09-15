@@ -1,5 +1,5 @@
-list = ["Apple", "Tomato", "Banana", "Avacado", "Gava", "Cherry"]   # list is mutable
-list2 = [8,3,5,7,1,2,4,6,9]
+# list = ["Apple", "Tomato", "Banana", "Avacado", "Gava", "Cherry"]   # list is mutable
+# list2 = [8,3,5,7,1,2,4,6,9]
 # print(list)
 
 # list.append("onion")    # put list item at end 
@@ -21,7 +21,7 @@ list2 = [8,3,5,7,1,2,4,6,9]
 # print(list2)
 
 
-tuple = (5,8,2,5,7,9,2,6)           # tuple is immutable
+# tuple = (5,8,2,5,7,9,2,6)           # tuple is immutable
 # print(type(tuple))
 
 # result = tuple.count(9)
