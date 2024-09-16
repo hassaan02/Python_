@@ -81,3 +81,55 @@
 #     print("Username is Greater than 10 characters")
 
 # ===============================================================================================================
+
+# 5. Write a program which finds out whether a given name is present in a list or not. 
+
+# list = ["ali", "ahmed", "hassaan", "umar", "john"]
+
+# user_input = input("Enter the name: ")
+
+
+# if(user_input in list):
+#     print("available")
+
+# else:
+#     print("not available")
+
+# ====================================================================================================
+
+# 6. Write a program to calculate the grade of a student from his marks from the 
+# following scheme: 
+# 90 – 100 => Ex 
+# 80 – 90 => A 
+# 70 – 80 => B 
+# 60 – 70  =>C 
+# 50 – 60 => D 
+# <50        
+# => F 
+ 
+
+# user_input = int(input("Enter the marks of student: "))
+
+# if(90 <= user_input <= 100):
+#     grade = "Ex"
+
+# elif(80 <= user_input < 90 ):
+#     grade = "A"
+
+# elif(70 <= user_input < 80 ):
+#     grade = "B"
+
+# elif(60 <= user_input < 70 ):
+#     grade = "C"
+
+# elif(50 <= user_input < 60 ):
+#     grade = "D"
+
+# else:
+#     grade = "F"
+
+# print(f"The student's grade is: {grade}")
+
+# ====================================================================================================
+
+
