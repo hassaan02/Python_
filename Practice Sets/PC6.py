@@ -44,3 +44,25 @@
 
 # print(percentage,"%")     
 
+
+# ===============================================================================================================
+
+# 3. A spam comment is defined as a text containing following keywords: 
+# “Make a lot of money”, “buy now”, “subscribe this”, “click this”. Write a program 
+# to detect these spams. 
+
+# spam_keyw1 = "make a lot of money"   
+# spam_keyw2 = "buy now"   
+# spam_keyw3 = "subscribe this"   
+# spam_keyw4 = "click this"
+
+# user_input = input("Ente the comment: ")
+
+# if spam_keyw1 in user_input or \
+#    spam_keyw2 in user_input or \
+#    spam_keyw3 in user_input or \
+#    spam_keyw4 in user_input:
+#     print("This comment contain SPAM")
+
+# else:
+#     print("This comment doesnt contain SPAM")  
