@@ -132,4 +132,12 @@
 
 # ====================================================================================================
 
+# Write a program to find out whether a given post is talking about “Harry” or not.
 
+# user_input = input("Write the Post: ")
+
+# if("harry" in user_input):
+#     print("The post is about harry")
+
+# else:
+#     print("The post is not about harry")
