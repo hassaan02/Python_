@@ -64,3 +64,57 @@
 # else:
 #     print("it doesnt contain digit")
 
+# ==================================== Lists and Tuples ===================================
+
+# Exercise 1: Create a list of numbers. Perform the following:
+#     Append a number to the list.
+#     Remove a number from the list.
+#     Sort the list in ascending order.
+
+# list = [34,65,23,77,56,243]
+
+# list.append(33)
+# print(list)
+
+# list.remove(243)
+# print(list)
+
+# list.sort()
+# print(list)
+
+# ======================== Conditional Expressions ===================
+
+# Exercise 1: Write a Python program that asks the user for their age and prints whether they are eligible to vote (age >= 18).
+
+# user_input = int(input("Write you age: "))
+
+# if(user_input >= 18):
+#     print("Yes, you are elegible to vote!")
+
+# else:
+#     print("No, you are not elegible for vote!")
+
+
+# Exercise 2: Write a program that takes a number as input and checks if it is positive, negative, or zero.
+
+# input = int(input("Write a number: "))
+
+# if(input > 0):
+#     print("Its a positive number!")
+
+# elif(input < 0):
+#     print("Its a negative number!")
+
+# else:
+#     print("Its a zer0")
+
+
+# Using a conditional expression, print whether a given year is a leap year or not.
+
+# year = int(input("Write a year: "))
+
+# if(year % 4 == 0 and (year % 400 == 0 or year % 100 == 0)):
+#     print("Its a leap Year!")
+
+# else:
+#     print("Its not a leap year")
