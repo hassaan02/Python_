@@ -118,3 +118,36 @@
 
 # else:
 #     print("Its not a leap year")
+
+# ===================  Dictionaries and Sets ===============================
+
+# xercise 1: Create a dictionary with some key-value pairs. Perform the following:
+#     Access a value using its key.
+#     Add a new key-value pair.
+#     Remove a key-value pair.
+
+# dict = {
+#     "Apple" : "Red",
+#     "Avacado" : "Green",
+#     "Mango" : "Yellow",
+#     "Onion" : "Purple",
+#     "Mooli" : "White"
+# }
+
+# dict["Mango"]
+# dict["Carrot"] = "Orange"
+# dict.pop("Mango")
+# print(dict)
+
+
+# Exercise 2: Create a set of unique numbers. Perform the following:
+#     Add a new number to the set.
+#     Try adding a duplicate number and observe the behavior.
+#     Remove a number from the set.
+
+# s = {1,2,3,4,5,6,7,8,9}
+
+# s.add(10)
+# s.add(5)
+# s.remove(2)
+# print(s)
